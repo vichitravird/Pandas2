@@ -11,3 +11,7 @@
 5 Problem 5 : Different ways to iterate over rows in Pandas Dataframe	(	https://www.geeksforgeeks.org/different-ways-to-iterate-over-rows-in-pandas-dataframe/ )
 
 6 Problem 6 : Selecting rows in pandas DataFrame based on conditions	(	https://www.geeksforgeeks.org/selecting-rows-in-pandas-dataframe-based-on-conditions/ )
+
+7 Problem 7 : Article Views I	(	https://leetcode.com/problems/article-views-i/  )
+8 Problem 8 :Invalid Tweets	(	https://leetcode.com/problems/invalid-tweets/ )
+9 Problem 9 :Calculate Special Bonus	(		https://leetcode.com/problems/calculate-special-bonus/ )
